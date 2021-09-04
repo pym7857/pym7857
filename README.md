@@ -8,6 +8,7 @@
 - Dacon (HAICON)
 - ProblemSolve (Algorithm)
 - CS
+  - 쉽게 배우는 운영체제 
 - DataAnalysis (Job)
 - Sitio (Flutter)
 - Interactive Web
