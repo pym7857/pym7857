@@ -4,8 +4,11 @@
 
 ### TODO 🎯
 - LSTech (React)
+  - Sleact Clone
 - Dacon (HAICON)
 - ProblemSolve (Algorithm)
 - CS
 - DataAnalysis (Job)
 - Sitio (Flutter)
+- Interactive Web
+  - Inflearn CSS 
