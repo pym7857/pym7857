@@ -14,6 +14,8 @@
   - CodeForces
   - LeetCode
   - CodeSignal
+  - 이코테 (나동빈)
+  - DP (인도책)
 - CS
   - 쉽게 배우는 운영체제 
 - DataAnalysis (Job)
