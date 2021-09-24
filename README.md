@@ -19,6 +19,8 @@
 - CS
   - 쉽게 배우는 운영체제 
 - DataAnalysis (Job)
+  - 데이터 분석
+  - Azure DevOps
 - Dacon
   - Haicon
 - Sitio
