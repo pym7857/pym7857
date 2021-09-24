@@ -16,6 +16,7 @@
   - CodeSignal
   - 이코테 (나동빈)
   - DP (인도책)
+  - 알고리즘 문제 해결 전략 세트 (1,2권)
 - CS
   - 쉽게 배우는 운영체제 
 - DataAnalysis (Job)
