@@ -6,8 +6,8 @@
 - Javascript
   - 렛츠기릿 자바스크립트
 - React
-  - LS Tech 
-  - Sleact Clone
+  - LS Tech (NextJS)
+  - Sleact Clone (NestJS + TypeORM)
 - ProblemSolve (Algorithm)
   - BOJ
   - Programmers
