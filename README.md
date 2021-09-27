@@ -29,3 +29,5 @@
   - ML System (Educative io) 
 - Interactive Web
   - Inflearn CSS 
+- iOS 개발
+  - Swift
