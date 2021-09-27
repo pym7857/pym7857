@@ -23,7 +23,7 @@
   - 데이터 분석
   - Azure DevOps
 - Dacon
-  - Haicon
+  - ~~Haicon~~
 - Sitio
   - Flutter
   - ML System (Educative io) 
